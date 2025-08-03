@@ -1,0 +1,50 @@
+Banque Européenne d'Investissement
+PORT-FR-5624-2025
+RÉSUMÉ DU PORTEFEUILLE D'INVESTISSEMENT
+Date du rapport: 10 mars 2025
+Numéro de compte: ******7539
+Nom: Sophie Mercier
+Adresse: 45 Rue de la Paix, 75002 Paris, France
+Email: s.mercier@exemple.fr
+Aperçu du portefeuille
+Cher(e) client(e), voici le résumé de votre portefeuille d'investissement en date du 10 mars 2025.
+La valeur totale de votre portefeuille est de €215,234.79.
+Répartition des actifs
+Classe d'actifs
+Valeur (€)
+Allocation (%)
+Actions
+125,467.82
+58.3%
+Obligations
+45,892.30
+21.3%
+Fonds communs
+28,754.15
+13.4%
+Liquidités
+15,120.52
+7.0%
+Total
+215,234.79
+100.0%
+Performance
+Période
+Rendement (%)
+1 mois
++2.3%
+3 mois
++4.7%
+1 an
++12.8%
+3 ans
++24.5%
+5 ans
++36.2%
+Recommandations
+Niveau de risque actuel: Modéré
+Horizon d'investissement: Long terme (>5 ans)
+Rééquilibrage suggéré: Augmenter exposition aux marchés émergents
+Prochain rendez-vous: 15 avril 2025
+Document confidentiel émis par la Banque Européenne d'Investissement. Les performances passées ne préjugent pas des
+performances futures.

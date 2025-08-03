@@ -1,0 +1,39 @@
+Banco Nacional de España
+SOB-ES-23456-2025
+NOTIFICACIÓN DE DESCUBIERTO EN CUENTA
+Fecha: 18 de marzo de 2025
+Número de cuenta: ES21 2100 0418 4502
+0005 1332
+Nombre: Miguel Ángel González
+Dirección: Calle Serrano 25, 28001 Madrid, España
+DNI: 12345678X
+Teléfono: +34 612 345 678
+Estimado Sr. González:
+Le informamos que su cuenta corriente se encuentra actualmente en descubierto por un importe de
+€342,78 desde el 15 de marzo de 2025. Es necesario regularizar esta situación lo antes posible.
+Detalles del descubierto
+Saldo actual: -€342,78
+Comisión por descubierto: €35,00
+Intereses por descubierto: €12,45
+Total a regularizar: €390,23
+Fecha límite para regularizar: 25 de marzo de 2025
+Operaciones que causaron el descubierto
+Fecha
+Concepto
+Importe (€)
+15/03/2025
+Domiciliación Seguro Coche
+-425,60
+16/03/2025
+Retirada Cajero Automático
+-100,00
+17/03/2025
+Transferencia Realizada
+-150,00
+Opciones para regularizar su cuenta
+1. Realice un ingreso o transferencia a su cuenta por el importe total.
+2. Visite su oficina más cercana para analizar la situación.
+3. Si dispone de ella, active su línea de crédito asociada a la cuenta.
+4. Contacte con nuestro departamento de atención al cliente: 900 123 456.
+Banco Nacional de España, S.A. - Entidad registrada en el Banco de España con el número 1234 - CIF: A-12345678 -
+Paseo de la Castellana 85, 28046 Madrid

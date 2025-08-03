@@ -1,0 +1,69 @@
+Global Financial Bank
+STMT-78924-2025
+ACCOUNT STATEMENT
+Statement Date: March 15, 2025
+Account Number: ****3824
+Name: Robert Johnson
+Address: 123 Maple Street, Boston, MA 02108, USA
+Email: r.johnson@example.com
+Account Summary
+Description
+Amount ($)
+Previous Balance
+5,421.33
+Total Deposits
++2,750.00
+Total Withdrawals
+-1,843.27
+Interest Earned
++1.88
+Fees
+-0.00
+Ending Balance
+6,329.94
+Account Details
+Your account ****3824 has a balance of $6,329.94 as of March 15, 2025.
+Transaction Details
+Date
+Description
+Amount ($)
+Balance ($)
+Feb 18, 2025
+DIRECT DEPOSIT - ACME INC
++2,350.00
+7,771.33
+Feb 20, 2025
+PAYMENT - RENT
+-1,200.00
+6,571.33
+Feb 22, 2025
+ATM WITHDRAWAL
+-200.00
+6,371.33
+Feb 25, 2025
+ONLINE TRANSFER
+-320.00
+6,051.33
+Mar 02, 2025
+GROCERY STORE
+-78.45
+5,972.88
+Mar 10, 2025
+COFFEE SHOP
+-44.82
+5,928.06
+Mar 12, 2025
+DIRECT DEPOSIT - DIVIDEND
++400.00
+6,328.06
+Mar 15, 2025
+INTEREST PAYMENT
++1.88
+6,329.94
+Important Information
+• Please review all transactions and notify us within 30 days of any discrepancies.
+• Your next statement will be available on April 15, 2025.
+• Interest rate on savings: 0.75% APY.
+• Consider setting up automatic bill payments to avoid late fees.
+This is an official document of Global Financial Bank. If you notice any discrepancies, please contact our customer service at
+1-800-555-0199 within 60 days of the statement date.
